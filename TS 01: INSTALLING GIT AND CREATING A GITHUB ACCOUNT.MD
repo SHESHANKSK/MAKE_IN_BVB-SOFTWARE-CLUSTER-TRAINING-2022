@@ -125,6 +125,12 @@ See 'git help git' for an overview of the system.
 
 
 
+### Git CheetSheet
+
+![SWTM-2088_Atlassian-Git-Cheatsheet_page-0001](https://user-images.githubusercontent.com/62549471/172563878-94092a73-1af8-464d-9c58-51af851edb7b.jpg)
+![SWTM-2088_Atlassian-Git-Cheatsheet_page-0002](https://user-images.githubusercontent.com/62549471/172564055-7b41b211-ccaa-433e-a8b3-8c6792911fe4.jpg)
+
+
 
 [SWTM-2088_Atlassian-Git-Cheatsheet.pdf](https://github.com/SHESHANKSK/MAKE_IN_BVB-SOFTWARE-CLUSTER-2022/files/8859502/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
 

@@ -17,7 +17,7 @@
 7. COMPILERS
 8.  DOCUMENTATION TOOLS
 
-# tASK
+# Task
 1. Installing VS code
 2. git
 3. make a github account
